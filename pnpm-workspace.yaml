@@ -1,0 +1,8 @@
+packages:
+  - 'websites/*'
+  # - 'starters/*'
+  - 'ci/*'
+  # - 'admin/*'
+  # - 'examples/*'
+  # - 'packages/*'
+  

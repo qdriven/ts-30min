@@ -1,0 +1,7 @@
+nextjs-lessons/
+node_modules/
+.turbo/
+.turbo/cache/
+.turbo/logs/
+.turbo/logs/turbo.log
+pnpm-lock.yaml
